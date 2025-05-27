@@ -28,7 +28,7 @@ const swaggerOptions = {
         },
         servers: [
             {
-                url: `https://ceriamusicapi-production.up.railway.app/`,
+                url: `hserverceriamusic-production.up.railway.app`,
                 description: 'Development server'
             }
         ],
